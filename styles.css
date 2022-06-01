@@ -361,11 +361,12 @@ aside{
 #nav-two{
     display: flex;
     width: 85%;
+    flex-wrap:wrap;
     margin: auto;
     justify-content: center;
 }
 .nav-one{
-    width: 100%;
+    width: auto;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -373,7 +374,7 @@ aside{
     border: 1px solid black;
 }
 .nav-two{
-    width: 100%;
+    width: auto;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -381,7 +382,7 @@ aside{
     border: 1px solid black;
 }
 .nav-three{
-    width: 100%;
+    width: auto;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -389,7 +390,7 @@ aside{
     border: 1px solid black;
 }
 .nav-four{
-    width: 100%;
+    width: auto;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -397,7 +398,7 @@ aside{
     border: 1px solid black;
 }
 .nav-five{
-    width: 100%;
+    width: auto;
     padding: 10px;
     margin: 10px;
     text-align: center;
