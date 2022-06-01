@@ -25,7 +25,6 @@ b{
 }
 #ng{
     color: #738f72;
-    font-size: 35px;
     height: auto;
 }
 .logo{
@@ -366,6 +365,7 @@ aside{
     justify-content: center;
 }
 .nav-one{
+    width: 100%;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -373,6 +373,7 @@ aside{
     border: 1px solid black;
 }
 .nav-two{
+    width: 100%;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -380,6 +381,7 @@ aside{
     border: 1px solid black;
 }
 .nav-three{
+    width: 100%;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -387,6 +389,7 @@ aside{
     border: 1px solid black;
 }
 .nav-four{
+    width: 100%;
     padding: 10px;
     margin: 10px;
     text-align: center;
@@ -394,6 +397,7 @@ aside{
     border: 1px solid black;
 }
 .nav-five{
+    width: 100%;
     padding: 10px;
     margin: 10px;
     text-align: center;
