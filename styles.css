@@ -360,10 +360,10 @@ aside{
 } */
 #nav-two{
     display: flex;
-    width: 85%;
-    flex-wrap:wrap;
+    width: 100%;
     margin: auto;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .nav-one{
     width: auto;
